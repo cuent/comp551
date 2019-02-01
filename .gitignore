@@ -1,6 +1,15 @@
-# Byte-compiled / optimized / DLL files
+# Custom
 __pycache__/
 .idea/
+.idea/*.iml
+.idea/*.xml
+review/
+slides/
+readings/
+.ipynb_checkpoints/
+*.pyc
+
+# Byte-compiled / optimized / DLL files
 *.py[cod]
 *$py.class
 
