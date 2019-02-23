@@ -8,6 +8,7 @@ slides/
 readings/
 .ipynb_checkpoints/
 *.pyc
+data/
 
 # Byte-compiled / optimized / DLL files
 *.py[cod]
